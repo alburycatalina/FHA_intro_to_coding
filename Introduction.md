@@ -32,11 +32,11 @@ will yield
 
 + 
 
-## (1) Write a complete command with addition, subtraction, or multiplication. Write an incomplete command and finish it on the second line ##
+*(1) Try a complete command with addition, subtraction, or multiplication. Write an incomplete command and finish it on the second line*
  
 Annotation: You will want to make comments on your code. Use the hashtag before writing these. This will run:
  
-        	> 2 + 2
+> 2 + 2
 > [1] 4
  
 This will not produce an output.
