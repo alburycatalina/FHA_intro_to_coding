@@ -1,6 +1,6 @@
 # A bit of background
 
-Open up Rstudio and we'll go through the various aspects of the IDE. 
+Open up Rstudio and we'll show you around the various aspects of the IDE. 
 
 **Running/ executing a command**: Tells the computer to follow the instructions
 
