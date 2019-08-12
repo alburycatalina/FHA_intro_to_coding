@@ -20,8 +20,11 @@ For example:
  
 Note the 1 in brackets. That means that the output is a single value
  
+ ```{r}
  	> 2 +
  	+
+```
+
  
 *Write a complete command with addition, subtraction, or multiplication. Write an incomplete command and finish it on the second line
  
