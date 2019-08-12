@@ -14,11 +14,11 @@ You interact with technology everyday. Checking Instagram, using your email, wat
 
 ## Getting started
 
-This lesson is adapted from data carpentry’s [Intro to R for Ecologists](https://datacarpentry.org/R-ecology-lesson/index.html). Use this page to follow along with. We’ll be using the “sticky method” to make sure you and I are on the same page. We’ll work through the lesson in chunks. Put a blue sticky note on your computer if you’re finished the current task. Put a pink sticky note up if you need help.
+This lesson is adapted from Data Carpentry’s [Intro to R for Ecologists](https://datacarpentry.org/R-ecology-lesson/index.html). Use this page to follow along with. We’ll be using the “sticky method” to make sure you and I are on the same page. We’ll work through the lesson in chunks. Put a blue sticky note on your computer if you’re finished the current task. Put a pink sticky note up if you need help.
 
 
 ## Setting Up
  
 1. Start downloading the latest version of R [here](https://cloud.r-project.org) for Mac OS X or Windows. 
-2. Download the Rstudio IDE [here](https://www.rstudio.com/products/rstudio/download/#download)
+2. Download the Rstudio IDE [here](https://www.rstudio.com/products/rstudio/download/#download).
 3. Make sure they work before the tutorial by opening up Rstudio. 
