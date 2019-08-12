@@ -8,9 +8,15 @@ Open up Rstudio and we'll go through the various aspects of the IDE.
 **Console**: Where commands are automatically executed by the computer. In the console, you'll notice the "more than" sign or "carat". This means R is good to go and accept a command. A plus sign means that the command is incomplete and you need to say more. Press esc if you want to cancel what you typed to get back to the >.
 
 
+
 For example:
+
+```{r}
   > 2 + 2
  	> [1] 4
+```
+
+
  
 Note the 1 in brackets. That means that the output is a single value
  
