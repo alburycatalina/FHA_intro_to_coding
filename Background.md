@@ -13,7 +13,7 @@ For example:
 
 ```{r}
   > 2 + 2
- 	> [1] 4
+  > [1] 4
 ```
 
 
@@ -21,8 +21,8 @@ For example:
 Note the 1 in brackets. That means that the output is a single value
  
  ```{r}
- 	> 2 +
- 	+
+ > 2 +
+ +
 ```
 
  
@@ -37,17 +37,25 @@ Note the 1 in brackets. That means that the output is a single value
 ### Annotation
 You will want to make comments on your code. Use the hashtag before writing these. This will run:
  
+```{r}
 > 2 + 2
 > [1] 4
+```
+
  
 This will not produce an output.
- 
+
+```{r}
 > # 2 + 2
+```
+
  
 From now on, make comments on your code explaining what it does. You will thank yourself later when going back to the lesson.  
  
 Example:
+```{r}
  	> # R can be used as a calculator
  	> 2 + 2
 > [1] 4
  	> # The output is four
+```
