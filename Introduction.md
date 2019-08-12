@@ -1,4 +1,6 @@
-Running/ executing a command: Tells the computer to follow the instructions
+#Here's some background information to get you going
+
+**Running/ executing a command** tells the computer to follow the instructions.
 
 Console: Where commands are automatically executed by the computer
 
