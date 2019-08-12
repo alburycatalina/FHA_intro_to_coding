@@ -19,6 +19,6 @@ This lesson is adapted from data carpentry’s [Intro to R for Ecologists](https
 
 ## Setting Up
  
-1. Start downloading the latest version of R. Go to https://cloud.r-project.org and download for Mac OS X or Windows. 
-2. Download the Rstudio IDE. https://www.rstudio.com/products/rstudio/download/#download
+1. Start downloading the latest version of R [here](https://cloud.r-project.org) for Mac OS X or Windows. 
+2. Download the Rstudio IDE [here](https://www.rstudio.com/products/rstudio/download/#download)
 3. Make sure they work before the tutorial by opening up Rstudio. 
