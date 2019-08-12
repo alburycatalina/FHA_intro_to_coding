@@ -26,12 +26,12 @@ Note the 1 in brackets. That means that the output is a single value
 ```
 
  
-*Write a complete command with addition, subtraction, or multiplication. Write an incomplete command and finish it on the second line
+*Write a complete command with addition, subtraction, or multiplication. Write an incomplete command and finish it on the second line*
  
  
 **Script editor**: Allows for your code to be reproducible. Save the code to run later. You can run code directly from the script editor in Rstudio too. Save files here the same way you do a word document. Rstudio is a script editor or IDE, also known as “interactive development environment.” You can type r code directly into the terminal on your computer, but Rstudio helps you to do it in an easy way. A little like wordpad vs. microsoft word. 
 
-**Working Directory*: The place on your machine where the files you create are saved and the files you read from can be found (more on this later)
+**Working Directory**: The place on your machine where the files you create are saved and the files you read from can be found (more on this later)
 
 
 ### Annotation
@@ -54,8 +54,8 @@ From now on, make comments on your code explaining what it does. You will thank 
  
 Example:
 ```{r}
- 	> # R can be used as a calculator
- 	> 2 + 2
+> # R can be used as a calculator
+> 2 + 2
 > [1] 4
- 	> # The output is four
+> # The output is four
 ```
