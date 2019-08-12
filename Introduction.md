@@ -18,16 +18,21 @@ For example:
 ```{r}
 2 + 2
 ```
+will yeild:
 
+> [1] 4
  
 Note the 1 in brackets. That means that the output is a single value
- 
+
 
 ```{r}
 2 + 
 ```
+will yield 
 
-*Write a complete command with addition, subtraction, or multiplication. Write an incomplete command and finish it on the second line
++ 
+
+## (1) Write a complete command with addition, subtraction, or multiplication. Write an incomplete command and finish it on the second line ##
  
 Annotation: You will want to make comments on your code. Use the hashtag before writing these. This will run:
  
