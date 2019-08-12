@@ -11,8 +11,12 @@ Script editor: Allows for your code to be reproducible. Save the code to run lat
  *Make a new folder for this exercise. Ex: ‘coding_tutorial’
 
 For example:
-        	>   2 + 2
- 	> [1] 4
+
+```{r}
+2 + 2
+```
+
+
  
 Note the 1 in brackets. That means that the output is a single value
  
