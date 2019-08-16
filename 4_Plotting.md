@@ -21,7 +21,7 @@ Example:
 	ylab = "y label")
 ```
 
-#### *Add some axis labels that make sense to the plot. 
+#### *Use the help function to find out how to add some axis labels that make sense to the plot.*
 
 Let’s save your plot as a pdf for later. Use the save button above the plot to do so. 
 
