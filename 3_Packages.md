@@ -10,7 +10,7 @@ A packages is an add on list of functions that you can add to your working envir
 You then need to load the package into your environment in order to use it. Do this
 with library().
 
-#### *Load dplyr into your environment and use the help function ?dplyr to check that it’s worked.*
+#### *Load dplyr into your environment and use the help function (?dplyr) to check that it’s worked.*
 
 This will pull up an introduction to the package and describe some things you can do with it. Do this with any function you know the name of and get a help page. 
 
