@@ -102,7 +102,7 @@ Here’s where your “how to google lesson” comes in.
 #### *Use your knowledge of conditional subsetting to figure out if our list of prime numbers is longer than 6. Hint: figure out what the command for how long a vector is! Talk to each other to figure it out.*
 
 
-
+(5 minute break)
 
 
 
