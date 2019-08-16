@@ -12,7 +12,7 @@ This lesson is adapted from Data Carpentry’s [Intro to R for Ecologists](https
 
 ## Why learn to code?
 
-You interact with technology everyday. Checking Instagram, using your email, watching youtube videos: all of these things require computers to work, which use code to tell them how to work. This code iss written by people just like you and me everyday. After today you might go on to program a website, make some digital art, process some data to understand your life better, or develop a game.
+You interact with technology everyday. Using Instagram, checking your email, watching youtube videos: all of these things require computers to work, which use code to tell them how to work. This code iss written by people just like you and me everyday. After today you might go on to program a website, make some digital art, process some data to understand your life better, or develop a game.
 
 ## Getting started
 
