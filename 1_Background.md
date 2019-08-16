@@ -5,7 +5,7 @@ Open up Rstudio and we'll show you around the various aspects of the IDE.
 **Running/ executing a command**: Tells the computer to follow the instructions
 
 ### The Console
-**Console**: Where commands are automatically executed by the computer. In the console, you'll notice the "more than" sign or "carat". This means R is good to go and can accept a command. A plus sign means that the command is incomplete and you need to say more. Press esc if you want to cancel what you typed to get back to the >. When running a longer piece of code, you maybe be required to stop the code currently running before the IDE will let you edit your current input. This can be done by clikcing the STOP symbol.
+**Console**: Where commands are automatically executed by the computer. In the console, you'll notice the "more than" sign or "carat". This means R is good to go and can accept a command. A plus sign means that the command is incomplete and you need to say more. Press esc if you want to cancel what you typed to get back to the >. When running a longer piece of code, you maybe be required to stop the code currently running before the IDE will let you edit your current input. This can be done by clicking the STOP symbol.
 
 
 
