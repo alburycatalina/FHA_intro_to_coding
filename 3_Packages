@@ -18,32 +18,40 @@ This will pull up an introduction to the package and describe some things you ca
 ### Dplyr: Select
 Use dply’s select() command to pick and choose columns to show in a  new data frame. Example:
 
-
-	> new_data1 <- select(shark_data, depth, id)
+```{r}
+> new_data1 <- select(shark_data, depth, id)
+```
 
 Will show only depth and id from the shark_data table. 
 
-*Make a new data frame (name of your choice) with only site names, year, and visibility. 
+#### *Make a new data frame (name of your choice) with only site names, year, and visibility. 
 
-Dplyr: Filter 
+### Dplyr: Filter
+
 Filter lets you select rows by certain factors. For example:
-	> new_data2 <- filter(shark_data, depth = 3) 
+
+```{r}
+> new_data2 <- filter(shark_data, depth = 3) 
+```
+
 Will show all observations where the depth was 3. 
 
-*Display all observations in Andros where the visibility was 4. 
+#### *Display all observations in Andros where the visibility was 4. 
 
 
 (30 min break)
 
 
-Packages Cont. ( 11:00-11:15) 
+## Packages Cont. 
 
-Dplyr: Piping 
+### Dplyr: Piping 
+
 Think of piping as “and then” statements. A pipe is 2 percentage signs around a greater than sign (%>%). Use it with the summarise function, which allows you to group data in your table and reduce multiple values down to a single value, based on a summary function like maximum value or average. For example:
 
+```{r}
 > new_data3 <- shark_data %>% group_by(site_name) %>% summarise(avg = mean(visibility))
+```
 
 Finds the mean visibility by site, making a new column “avg”.
 
-*Find the total count per site. (Hint: find the command for adding and use it in place of mean) in the code above
-	Andros has the most sharks
+#### *Find the total count per site. (Hint: find the command for adding and use it in place of mean) in the code above.*
