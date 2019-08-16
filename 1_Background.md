@@ -59,3 +59,4 @@ Example:
 > [1] 4
 > # The output is four
 ```
+(30 minute break)
