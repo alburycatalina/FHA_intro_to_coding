@@ -33,6 +33,17 @@ Note the 1 in brackets. That means that the output is a single value
 
 **Working Directory**: The place on your machine where the files you create are saved and the files you read from can be found (more on this later)
 
+### The Four Corners of RStudio
+
+![alt text](https://i.redd.it/o6tq04zyozh11.png)
+
+**Top Left**: Your script editor. From the top left you can select the type of file within RStudio you wish to run. In the case of this tutorial you can use the plus sign to select for a R script.
+
+**Top Right**: This is your environment! It tells you all of the objects and datafiles that are active within your working directory. It also tells you useful information such as the the type of file, for example numerical or character based.
+
+**Bottom Left**: This is your console!
+
+**Bottom Right**: This is the management section. From here you can browse the files within your computer and manually select a working directory. This is where the help finder will pop up when we use it later in this tutorial. Any plots that are produced will be created here.
 
 ### Annotation
 You will want to make comments on your code. Use the hashtag before writing these. This will run:
