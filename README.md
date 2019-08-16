@@ -25,9 +25,12 @@ You interact with technology everyday. Using Instagram, checking your email, wat
 
 ![alt text](https://github.com/alburycatalina/FHA_intro_to_coding/blob/master/download_r.png)
 
-Install the latest release. 
+Select the latest release and follow the instructions to install.
 
+![alt text](https://github.com/alburycatalina/FHA_intro_to_coding/blob/master/download_r_2.png)
 
+2. Download the Rstudio IDE [here](https://www.rstudio.com/products/rstudio/download/#download). Select the free version.
 
-2. Download the Rstudio IDE [here](https://www.rstudio.com/products/rstudio/download/#download).
+![alt text](https://github.com/alburycatalina/FHA_intro_to_coding/blob/master/download_r_3.png)
+
 3. Make sure they work before the tutorial by opening up Rstudio. 
