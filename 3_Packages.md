@@ -1,7 +1,7 @@
 ## Packages
 
 ### What are they?
-A packages is an add on list of functions that you can add to your working environment. Many have different specialized functions: making graphs, stats, making figures, etc. Today we’ll be working with a pretty common one: dplyr.
+A packages is an add on list of functions that you can add to your working environment. Many have different specialized functions: making figures, stats, working with websites, etc. Today we’ll be working with a pretty common one: dplyr.
 
 #### *Start with a new R file and save it in yesterday’s folder.*
 
