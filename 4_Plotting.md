@@ -24,3 +24,5 @@ Example:
 #### *Add some axis labels that make sense to the plot. 
 
 Let’s save your plot as a pdf for later. Use the save button above the plot to do so. 
+
+(5 min break)
