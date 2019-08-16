@@ -35,15 +35,9 @@ Will show only depth and id from the shark_data table.
 
 ### Dplyr: Filter
 
-Filter lets you select rows by certain factors. For example:
+Filter lets you select rows by certain factors. 
 
-```{r}
-> new_data2 <- filter(shark_data, depth = 3) 
-```
-
-Will show all observations where the depth was 3. 
-
-#### *Display all observations in Andros where the visibility was 4.*
+#### *Talk to each other, use google and the help function to figure out how to use filter() to display all observations in Andros where the visibility was 4.*
 
 
 (30 min break)
