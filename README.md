@@ -21,6 +21,9 @@ You interact with technology everyday. Using Instagram, checking your email, wat
 
 ## Setting Up
  
-1. Start downloading the latest version of R [here](https://cloud.r-project.org) for Mac OS X or Windows. 
+1. Start downloading the latest version of R [here](https://cloud.r-project.org). Under "download and install R" select "Download R for (Mac) OS X" for Mac OS X or Windows.
+
+![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+
 2. Download the Rstudio IDE [here](https://www.rstudio.com/products/rstudio/download/#download).
 3. Make sure they work before the tutorial by opening up Rstudio. 
