@@ -24,7 +24,7 @@ Use dply’s select() command to pick and choose columns to show in a  new data 
 
 Will show only depth and id from the shark_data table. 
 
-#### *Make a new data frame (name of your choice) with only site names, year, and visibility. 
+#### *Make a new data frame (name of your choice) with only site names, year, and visibility.*
 
 ### Dplyr: Filter
 
@@ -36,7 +36,7 @@ Filter lets you select rows by certain factors. For example:
 
 Will show all observations where the depth was 3. 
 
-#### *Display all observations in Andros where the visibility was 4. 
+#### *Display all observations in Andros where the visibility was 4.*
 
 
 (30 min break)
