@@ -17,8 +17,15 @@ R is an object-oriented programming language. That means that it allows you to s
 ```
  
 The object ‘students’ has now been stored. Notice that there was no output.
+
+### Print
  
-Use the print() command to see what’s stored in an object (or just type it’s name)
+Use the print() command to see what’s stored in an object (or just type it’s name).
+
+For example, you can print text. Try print('Hello World!").
+
+
+#### *Print the object 'students' to see what's stored inside.*
 
 ```{r}
 >  print(students)
