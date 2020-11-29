@@ -8,7 +8,7 @@
 + “How to google”
 + What’s next?
 
-This lesson is adapted from Data Carpentry’s [Intro to R for Ecologists](https://datacarpentry.org/R-ecology-lesson/index.html). It also uses data from [Dr. Aaron Macneil's](ifisheries.org/) Biologist's Toolkit course at Dalhousie University.
+This lesson is adapted from Data Carpentry’s [Intro to R for Ecologists](https://datacarpentry.org/R-ecology-lesson/index.html). It also uses data from [Dr. Aaron Macneil's](https://ifisheries.org) Biologist's Toolkit course at Dalhousie University.
 
 ## Why learn to code?
 
